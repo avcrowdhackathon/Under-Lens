@@ -1,0 +1,59 @@
+﻿.site_logo {
+    margin-left: 41%;
+    margin-top: 100px;
+}
+.under_logo {
+    text-align: center;
+    color: white;
+    font-size: xx-large;
+}
+.page_title {
+    color: white;
+    text-align: center;
+    font-size: 46px;
+    font-weight: 700;
+}
+.under_logo_text{
+
+}
+body {
+    background-color: rgb(19, 206, 102);
+}
+.nav_logo{
+    float:left;
+}
+.nav_cus {
+    width: 1224px;
+    margin-top: 90px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+float: left;
+}
+
+li a {
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+background-color: #111;
+}
+
+.contain {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1224px;
+    padding-top: 150px;
+}
